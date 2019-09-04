@@ -6,6 +6,8 @@ WALLACE LISTA
 #PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png"
 ################################################################################# SÉRIES
 
+################################################################################# The Good Doctor: O Bom Doutor Temporada 1
+
 #EXTINF::-1 tvg-id="" tvg-logo="https://pm1.narvii.com/6606/be8dc3187d30df6ab1eb543b53c578d4bc67c567_128.jpg" group-title=" The Good Doctor: O Bom Doutor ",1x01-DUB
 
 https://r2---sn-gpv7dn7k.googlevideo.com/videoplayback?expire=1567652275&ei=MwlwXdKSIJbPuQKRh7ioCQ&ip=2a02:c207:2022:1369::1&id=379e86923d7a4441&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2604.234&lmt=1535065309758021&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ALgxI2wwRQIgVHS5_Y6z_wxhe8rgF2Pdhv67_cyspEYM0ukOBrtxe-wCIQDxZlDe5tiZ9YnvuP0b6dNL1G1ecXjfoAiXvZCT7R1QAw%3D%3D&redirect_counter=1&rm=sn-4g5e6l7l&req_id=2360e45241fea3ee&cms_redirect=yes&ipbypass=yes&mip=177.12.176.38&mm=31&mn=sn-gpv7dn7k&ms=au&mt=1567624640&mv=m&mvi=1&pl=24&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRgIhAKf3ebm4bMKHDrIYp4F0HmUFV-NGynkP4Qd8fK1cXBldAiEAg4fd92v7_hQIY_W7pjJn0cGsQOLLkcoC3I9MBsfjjK0=
