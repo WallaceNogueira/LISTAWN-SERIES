@@ -4,7 +4,15 @@ WALLACE LISTA
 #EXTM3U
 
 #PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png"
-################################################################################# SÉRIES
+
+################################################################################# A FAZENDA
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" https://images.uncyc.org/pt/5/5e/A_fazenda_logo.jpg
+
+http://edge.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_741a573199438bb8be18898097729f548a16257b/playlist.m3u8
+
+################################################################################# SERIES
 
 ################################################################################# The Good Doctor: O Bom Doutor Temporada 1
 
